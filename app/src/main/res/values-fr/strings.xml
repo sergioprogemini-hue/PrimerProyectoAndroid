@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mon premier projet Android</string>
+    <string name="tv_bienvenido">Bienvenue</string>
+    <string name="btn_entrar">Entrer</string>
+</resources>
